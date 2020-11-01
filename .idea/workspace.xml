@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40004aa7-80cc-4ef8-b3d5-1b9401e78928" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tic-tac-toe/Field.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tic-tac-toe/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resourses.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -68,7 +67,8 @@
       <workItem from="1598779385978" duration="409000" />
       <workItem from="1602402581160" duration="5743000" />
       <workItem from="1602485867146" duration="599000" />
-      <workItem from="1604223179222" duration="151000" />
+      <workItem from="1604223179222" duration="3318000" />
+      <workItem from="1604231216130" duration="6151000" />
     </task>
     <servers />
   </component>
@@ -97,18 +97,18 @@
     </state>
     <state x="743" y="275" width="424" height="491" key="FileChooserDialogImpl/0.26.1920.994@0.26.1920.994" timestamp="1602426933032" />
     <state x="743" y="276" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.993@0.27.1920.993" timestamp="1598779793542" />
-    <state x="747" y="232" width="415" height="585" key="NewPhpClassDialog" timestamp="1602425343357">
-      <screen x="0" y="26" width="1920" height="994" />
+    <state x="747" y="233" width="422" height="578" key="NewPhpClassDialog" timestamp="1604247242344">
+      <screen x="0" y="27" width="1920" height="993" />
     </state>
     <state x="747" y="232" width="415" height="585" key="NewPhpClassDialog/0.26.1920.994@0.26.1920.994" timestamp="1602425343357" />
-    <state x="747" y="233" width="415" height="578" key="NewPhpClassDialog/0.27.1920.993@0.27.1920.993" timestamp="1597906809554" />
+    <state x="747" y="233" width="422" height="578" key="NewPhpClassDialog/0.27.1920.993@0.27.1920.993" timestamp="1604247242344" />
     <state x="753" y="443" width="404" height="158" key="NewPhpFileDialog" timestamp="1597906770826">
       <screen x="0" y="27" width="1920" height="993" />
     </state>
     <state x="753" y="443" width="404" height="158" key="NewPhpFileDialog/0.27.1920.993@0.27.1920.993" timestamp="1597906770826" />
-    <state x="441" y="153" width="1037" height="737" key="SettingsEditor" timestamp="1597925899787">
+    <state x="441" y="153" width="1037" height="737" key="SettingsEditor" timestamp="1604223835891">
       <screen x="0" y="27" width="1920" height="993" />
     </state>
-    <state x="441" y="153" width="1037" height="737" key="SettingsEditor/0.27.1920.993@0.27.1920.993" timestamp="1597925899787" />
+    <state x="441" y="153" width="1037" height="737" key="SettingsEditor/0.27.1920.993@0.27.1920.993" timestamp="1604223835891" />
   </component>
 </project>

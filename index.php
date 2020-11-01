@@ -1,12 +1,16 @@
 <?php
-/*$items = [
-    'iron' => ['percent'=> 40, 'weight' => 75],
-    'copper' => ['percent'=> 30, 'weight' => 75],
-    'gold' => ['percent'=> 15, 'weight' => 150],
-    'platinum' => ['percent'=> 10, 'weight' => 500],
-    'diamond' => ['percent'=> 5, 'weight' => 1000],
-];
-require_once "Resources.php";
-$resources = new Resources($items);
-$resources->addToCart();*/
+require_once "tic-tac-toe/Field.php";
+require_once "tic-tac-toe/User.php";
+session_start();
+//print_r($_REQUEST); die;
+//echo 111;
+//die;
+$data = json_decode(file_get_contents('php://input'));
+//print_r($data);  die;
+$field = new Field();
+//print_r($field); die;
+$user = new User($field,$data->symbol);
+//print_r($user); die;
+$user->turn($data->coords);
+print_r($user->turns); die;
 
